@@ -7,7 +7,6 @@ My interest in the field of Mathematics, Statistics and Probability made me swit
 
 Skills: Python (Sci-kit learn, NumPy, Pandas, Matplotlib/Seaborn), Data Structures and Algorithms in  C++, `C/C++, MATLAB, Amazon Web Services (AWS), Data Analysis with Python
 
-- 🔭 I’m currently working on learning newer technologies like GANs and various deployment techniques! 
 - 🌱 I’m currently learning newer technologies like GANs, BERT and various deployment techniques! 
 - 🤔 I’m looking for help with work/internship opportunities in the field of ML 
 
