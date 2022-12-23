@@ -10,8 +10,7 @@ Skills: Python (Sci-kit learn, NumPy, Pandas, Matplotlib/Seaborn), `C/C++, Data 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishq26)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([www.linkedin.com/in/tanishq26](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)) 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanishq26/)
 
 
 
