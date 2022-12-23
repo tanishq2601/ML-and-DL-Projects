@@ -9,7 +9,7 @@ Skills: Python (Sci-kit learn, NumPy, Pandas, Matplotlib/Seaborn), `C/C++, Data 
  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://github.com/tanishq26) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='linkedin' height='40'>](www.linkedin.com/in/tanishq26) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanishq26) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/tanishq26) 
 
 
 
